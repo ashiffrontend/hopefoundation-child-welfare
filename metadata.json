@@ -1,0 +1,6 @@
+{
+  "name": "HopeFoundation Child Welfare",
+  "description": "Together We Build Brighter Futures. Premium NGO website for child education, nutrition programs, healthcare, donor transparency, and volunteer management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
